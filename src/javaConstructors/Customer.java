@@ -1,5 +1,16 @@
 package javaConstructors;
 
+/*
+ *       
+Task-1: Write a java program to print the Customer details.
+
+1. First define  a "Customer" class.
+2. inside the Customer class take 4 fields, customerId, customerName, 
+   customerContactNo and customerAddress.
+3. initialize Customer objects with constructors
+4. take customerDetails() method to print Customer details.
+ */
+
 public class Customer
 {
   //fields
