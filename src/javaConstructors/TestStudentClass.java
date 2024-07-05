@@ -11,7 +11,7 @@ public class TestStudentClass {
 		
 		System.out.println();
 		
-		Department d2 = new Department(103, "Development");
+		Department d2 = new Department(103, "Development"); 
 		d2.studentDeparmentDetails();		
 		
 	}
